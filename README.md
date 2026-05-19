@@ -1,1 +1,2 @@
 Hello my current project its to make a new website apllying everythin i have learned, my current skills are that i learn fast and resilence to keep giving all the free time i have
+atp i know html basics and how to move git more or less.
